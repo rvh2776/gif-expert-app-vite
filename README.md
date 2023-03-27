@@ -1,3 +1,3 @@
 # GifExpertApp
 
-Repositorio de proyecto en estudiando: React + Vite.
+Repositorio de proyecto estudiando: React + Vite.
